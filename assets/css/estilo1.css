@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.div1 {
+    background-color: #E33838;
+    ;
+    width: 485px;
+    height: 235px;
+}
+
+.div2 {
+    background-color: #044AFF;
+    ;
+    width: 485px;
+    height: 235px;
+    position: absolute;
+    left: 485px;
+}

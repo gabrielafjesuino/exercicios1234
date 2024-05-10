@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.divprincipal1 {
+    background-color: #30A150;
+    width: 350px;
+    height: 90px;
+    position: relative;
+    right: -635px;
+}
+
+.d2 {
+    background-color: #280E0E;
+    width: 175px;
+    height: 45px;
+    position: relative;
+    right: -175px;
+    bottom: -45px;
+}
